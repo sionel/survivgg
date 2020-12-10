@@ -1,0 +1,12 @@
+.Main {
+  position: relative;
+  text-align: center;
+  width: 1080px;
+  height: 100%;
+  background-color: blue;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  flex-direction: row;
+}
