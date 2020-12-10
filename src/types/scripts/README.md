@@ -11,7 +11,7 @@ eternalReturn
     - Hart
     - Hyejin
     - Hyunwoo
-    - Isol
+    - Isol~
     - Jackie
     - LiDailin
     - Magnus
