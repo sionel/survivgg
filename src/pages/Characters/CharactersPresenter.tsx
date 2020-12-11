@@ -4,7 +4,8 @@ import '../../css/Characters.css';
 
 export default function CharactersPresenter() {
     return (
-        <div className="Characters"> 
+        <div className="Characters">
+            
         </div>
     )
 }

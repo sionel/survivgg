@@ -4,24 +4,24 @@
 
 eternalReturn
 - charaters
-    - Adriana
-    - Aya
-    - Chiara
-    - Fiora
-    - Hart
-    - Hyejin
-    - Hyunwoo
-    - Isol~
-    - Jackie
-    - LiDailin
-    - Magnus
-    - Nadine
-    - Shoichi
-    - Silvia
-    - Sissela
-    - Xiukai
-    - Yuki
-    - Zahir
+    - Adriana - 아드리아나
+    - Aya - 아야
+    - Chiara - 키아라
+    - Fiora -피오라
+    - Hart - 하트
+    - Hyejin - 혜진
+    - Hyunwoo -현우
+    - Isol - 아이솔
+    - Jackie - 재키
+    - LiDailin - 리다이린
+    - Magnus - 매그너스
+    - Nadine - 나딘
+    - Shoichi - 쇼이치
+    - Silvia - 실비아
+    - Sissela - 시셀라
+    - Xiukai - 쇼우
+    - Yuki - 유키
+    - Zahir - 자하르
 - items
     - material
         - Stone

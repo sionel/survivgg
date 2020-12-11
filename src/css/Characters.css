@@ -1,0 +1,13 @@
+.Characters {
+    /* Take full height */
+    height: 100%;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 100px;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+    padding-left: 50px;
+    padding-right: 50px;
+  background-color: aquamarine;
+}

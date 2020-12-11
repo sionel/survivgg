@@ -1,7 +1,128 @@
-import eternalReturn from '../types'
+import {eternalReturn} from '../types/scripts';
 
-const kr: eternalReturn= {
-    
-}
+const kr: eternalReturn = {
+  areas: {
+    Alley: '골목길',
+    ArcheryRange: '양궁장',
+    Avenue: '번화가',
+    Beach: '모래사장',
+    Cemetery: '묘지',
+    Chapel: '성당',
+    Dock: '항구',
+    Factory: '공장',
+    Forest: '숲',
+    Hospital: '병원',
+    Hotel: '호텔',
+    Pond: '연못',
+    ResearchCenter: '연구소',
+    School: '학교',
+    Temple: '절',
+    Uptown: '고급 주택가'
+  },
+  charaters: {
+    Adriana: '아드리아나',
+    Aya: '아야',
+    Chiara: '키아라',
+    Fiora: '피오라',
+    Hart: '하트',
+    Hyejin: '혜진',
+    Hyunwoo: '현우',
+    Isol: '아이솔',
+    Jackie: '재키',
+    LiDailin: '리 다이린',
+    Magnus: '매그너스',
+    Nadine: '나딘',
+    Shoichi: '쇼이치',
+    Silvia: '실비아',
+    Sissela: '시셀라',
+    Xiukai: '쇼우',
+    Yuki: '유키',
+    Zahir: '자히르'
+  },
+  creeps: {
+    bat: '박쥐',
+    bear: '곰',
+    chicken: '닭',
+    dog: '들개',
+    pig: '맷돼지',
+    wolf: '늑대'
+  },
+  items: {
+    armors: {
+      Accessories: {},
+      Arm: {},
+      Chest: {},
+      Head: {},
+      Leg: {}
+    },
+    material: {
+      Alcohol: '알코올',
+      Ash: '재',
+      Battery: '배터리',
+      Blueprint: '정교한 도면',
+      Can: '캔',
+      CellPhone: '휴대폰',
+      Cloth: '옷',
+      DeadBattery: '방전 전지',
+      ElectronicParts: '전자 부품',
+      ForceCore: '포스 코어',
+      Gemstone: '원석',
+      GlassBottle: '유리병',
+      GlassPanel: '유리판',
+      Glue: '접착제',
+      Gold: '황금',
+      Gunpowder: '화약',
+      HeatedOil: '뜨거운 오일',
+      HeatedStone: '달궈진 돌맹이',
+      IonBattery: '이온 전지',
+      IronOre: '철광석',
+      IronSheet: '철판',
+      LaserPointer: '레이저 포인터',
+      Leather: '가죽',
+      Lighter: '라이터',
+      Meteorite: '운석',
+      Mithril: '미스릴',
+      MoonStone: '문스톤',
+      Motor: '모터',
+      Nail: '못',
+      Oil: '오일',
+      Oilcloth: '기름먹인 천',
+      Paper: '종이',
+      Poison: '독약',
+      Rubber: '고무',
+      Ruby: '루비',
+      ScrapMetal: '고철',
+      StallionMedal: '마패',
+      Steel: '강철',
+      Stone: '돌맹이',
+      TreeofLife: '생명의 나무',
+      TurtleShell: '거북이 등딱지',
+      VFBloodSample: 'VF 혈액 샘플',
+      WhitePowder: '백색 가루'
+    },
+    weapons: {
+      AssaultRifle: {},
+      Axe: {},
+      Bat: {},
+      Bow: {},
+      Crossbow: {},
+      DualSwords: {},
+      Glove: {},
+      Guitar: {},
+      Hammer: {},
+      Nunchaku: {},
+      Pistol: {},
+      Rapier: {},
+      Shuriken: {},
+      SniperRifle: {},
+      Spear: {},
+      Throw: {},
+      Tonfa: {},
+      TwoHandedSword: {},
+      Whip: {},
+      dagger: {}
+    }
+  }
+};
 
-export default kr
+export default kr;
